@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Patrik",
+        "last": "Holum"
+      },
+      "location": {
+        "street": {
+          "number": 583,
+          "name": "Myrerdraget"
+        },
+        "city": "Volleberg",
+        "state": "Oppland",
+        "country": "Norway",
+        "postcode": "5814",
+        "coordinates": {
+          "latitude": "56.0980",
+          "longitude": "-89.4588"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "patrik.holum@example.com",
+      "login": {
+        "uuid": "b5d09f94-f8f9-40be-8dba-8ef23a79da6d",
+        "username": "sadostrich550",
+        "password": "static",
+        "salt": "0H9JbR3I",
+        "md5": "40d3661c1758e9b69311f139d461c3e5",
+        "sha1": "b7b11f5ad8111d9f99e2b8e4a54f5aa789b97d19",
+        "sha256": "4b2201928b0ea638b4b1e87b082d6a00d3ec9d19efab9eab51ffa9f5c11142bb"
+      },
+      "dob": {
+        "date": "1994-10-10T12:57:44.422Z",
+        "age": 27
+      },
+      "registered": {
+        "date": "2019-03-26T01:55:09.090Z",
+        "age": 2
+      },
+      "phone": "36458638",
+      "cell": "43377099",
+      "id": {
+        "name": "FN",
+        "value": "10109420749"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/16.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+      },
+      "nat": "NO"
+    }
+  ],
+  "info": {
+    "seed": "c523be73401795bc",
+    "results": 1,
+    "page": 1,
+    "version": "1.3"
+  }
+}
